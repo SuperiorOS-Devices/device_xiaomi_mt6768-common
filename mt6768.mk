@@ -361,6 +361,7 @@ PRODUCT_PACKAGES += \
     android.frameworks.sensorservice@1.0
 
 PRODUCT_PACKAGES += \
+    libshim_sensors \
     libsensorndkbridge
 
 # Shims
